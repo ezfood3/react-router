@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import Profile from "./pages/Profile";
 import Layout from "./pages/Layout";
 import Articles from "./pages/Articles";
-import Article from "./Article";
+import Article from "./pages/Article";
 import Login from "./pages/Login";
 import MyPage from "./pages/MyPage";
 import NotFound from "./pages/NotFound";

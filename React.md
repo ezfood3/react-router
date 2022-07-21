@@ -10,6 +10,7 @@
 - cd react-router
 - router 라이브러리 설치
   - yarn add react-router-dom
+  - yarn add react-router-dom@5.0.0
 
 # router 적용
 1. BrowserRouter라는 컴포넌트 사용
@@ -36,3 +37,5 @@
   - useNavigate (v6)
 7. sub router
   - <Route> <Route /> </Route>
+8. NavLink
+  - 스타일 적용가능
